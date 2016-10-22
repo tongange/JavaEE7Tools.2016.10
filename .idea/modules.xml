@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hibernate-controller/hibernate-controller.iml" filepath="$PROJECT_DIR$/hibernate-controller/hibernate-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-dao/hibernate-dao.iml" filepath="$PROJECT_DIR$/hibernate-dao/hibernate-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-domain/hibernate-domain.iml" filepath="$PROJECT_DIR$/hibernate-domain/hibernate-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hibernate-service/hibernate-service.iml" filepath="$PROJECT_DIR$/hibernate-service/hibernate-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaee7-core/javaee7-core.iml" filepath="$PROJECT_DIR$/javaee7-core/javaee7-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaee7tools2016.10.iml" filepath="$PROJECT_DIR$/javaee7tools2016.10.iml" />
+    </modules>
+  </component>
+</project>
